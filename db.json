@@ -1,9 +1,9 @@
 {
   "tasks": [
     {
-      "text": "New Brand Task",
-      "day": "Now",
-      "reminder": true,
+      "text": "Heroku Task",
+      "day": "Today",
+      "reminder": false,
       "id": 1
     }
   ]
