@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Naptown Clutch 2021",
+      "day": "October 14th at 4:30 pm",
+      "reminder": true
+    },
+    {
+      "text": "Grab Lunch",
+      "day": "This Afternoon",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Deploy Task Tracker",
+      "day": "Right now",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
