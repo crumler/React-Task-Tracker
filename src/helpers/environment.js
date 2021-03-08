@@ -6,7 +6,7 @@ switch (window.location.hostname) {
         break;
 
     case 'rumler-task-tracker.herokuapp.com/':
-        DBURL = 'https://rumler-task-tracker.herokuapp.com/'
+        DBURL = 'https://rumler-task-tracker.herokuapp.com'
 }
 
 export default DBURL
